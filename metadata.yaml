@@ -1,0 +1,26 @@
+_repo: Crocheted-Rugs-Star-Rug-Book-No-106_60350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Thread Company
+    aliases:
+    - Company, American Thread
+    - American Thread Co.
+    gutenberg_agent_id: '50912'
+    url: http://www.gutenberg.org/2009/agents/50912
+description: ''
+gutenberg_issued: '2019-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Rugs'
+- !lcsh 'Crocheting -- Patterns'
+- GITenberg
+title: 'Crocheted Rugs: Star Rug Book No. 106'
+url: http://www.gutenberg.org/ebooks/60350
